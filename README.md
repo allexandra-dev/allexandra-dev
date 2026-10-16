@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou a Allexandra Bloom 👋
 
-<!--
-**allexandra-dev/allexandra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💜 Da saúde e da educação física para a tecnologia.
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição de carreira, depois de mais de 20 anos na área da saúde. Gosto de aprender construindo projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo
+- JavaScript e TypeScript
+- React Native (desenvolvimento mobile)
+- Git e GitHub
+
+## 🚀 Projetos
+Em breve vou destacar aqui meus principais projetos.
+
