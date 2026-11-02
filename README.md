@@ -10,5 +10,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transiç�
 - Git e GitHub
 
 ## Projetos
-Em breve vou destacar aqui meus principais projetos.
 
+- 💸 **[Controle de Despesas](link-do-repositorio)**: app mobile para registrar despesas, com total gasto, histórico e dados salvos no celular. React Native, Expo, TypeScript e AsyncStorage.
+- ⚖️ **[Calculadora de IMC](link-do-repositorio)**: app mobile que calcula o IMC e guarda o histórico das medições. React Native, Expo e TypeScript.
